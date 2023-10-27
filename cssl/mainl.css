@@ -1,0 +1,541 @@
+body{
+    width: 1480px;
+}
+
+p {
+    margin: 0;
+    display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+body{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}   /* важная штука*/
+
+
+.headd{
+    width: 919.16px;
+    height: 289.62px;
+    top: 250px;
+    margin-left: 261.33px;
+    margin-right: auto;
+    position: absolute;
+}
+
+.headtext{
+    position: absolute; 
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 35.17px;
+    margin-left: 668.16px;
+    margin-top: 30px;
+    color: #FF16B0;
+}
+
+.matrica1{
+    position: relative; 
+    width: 1480px;
+    height: 280px;
+    /* top: 40px; */
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 35.17px;
+    overflow: hidden;
+    color: #FF16B0;
+    opacity: 0.28;
+
+
+}
+
+.matrica1 p {
+    position: absolute; 
+    width: 1480px;
+    height: 280px;
+}
+
+.matrica2{
+    position: relative; 
+    width: 1480px;
+    height: 280px;
+    top: 230px;
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 35.17px;
+    overflow: hidden;
+    color: #FF16B0;
+    opacity: 0.28;
+}
+.venseli{
+    position: absolute;
+    width: 1480px;
+    top: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.oglav{
+    width: 1480px;
+    position: absolute;
+    top: 820px;
+    font-size: 43.2px;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: bold;
+    letter-spacing: 7%;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.tom{
+    width: 1480px;
+    position: relative;
+    top: 330px;
+    font-size: 21.6px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.shr{
+    position: relative;
+    top: 420px;
+    font-size: 36px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    margin-left: 690px;
+}
+.only{
+    position: relative;
+    top: 440px;
+    margin-left: 20px;
+}
+.oglavlenie1{
+    width: 1480px;
+    position: relative;
+    top: 440px;
+    font-size: 20px;
+    font-family: 'Anonymous Pro', monospace;
+    line-height: 135%;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.oglavlenie2{
+    position: relative;
+    top: 440px;
+    font-size: 20px;
+    font-family: 'Anonymous Pro', monospace;
+    line-height: 135%;
+    color: #FF16B0;
+    margin-left: 495px;
+}
+.oglavlenie3{
+    width: 1480px;
+    position: relative;
+    top: 440px;
+    font-size: 20px;
+    font-family: 'Anonymous Pro', monospace;
+    line-height: 135%;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.only2{
+    width: 1460px;
+    position: relative;
+    top: 500px;
+    display: flex;
+    justify-content: flex-end;
+}
+.izdat{
+    width: 1480px;
+    position: relative;
+    top: 550px;
+    font-size: 15.69px;
+    font-family: 'Anonymous Pro', monospace;
+    font-style: italic;
+    line-height: 160%;
+    color: #FF16B0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.klavrd{
+    /* display: inline; */
+    width: 1480px;
+    position: relative;
+    top: 630px;
+    display: flex;
+    justify-content: center;
+}
+
+.glava{
+    width: 1480px;
+    position: absolute;
+    top: 2000px;
+    font-size: 43.2px;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.serdca{
+    position: absolute;
+    width: 1290px;
+    margin: 100px;
+    top: 1910px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.vensell2{
+    position: absolute;
+    top: 2070px;
+    margin-left: 555px;
+}
+.anon{
+    position:relative;
+    margin-left: 100px;
+    top: 1090px;
+    font-size: 70px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+}
+.god{
+    position:relative;
+    margin-left: 820px;
+    top: 1030px;
+    font-size: 17px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+}
+.eto{
+    width: 1480px;
+    position:absolute;
+    top: 2370px;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: -1%;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.hi{
+    position: absolute;
+    top: 2400px;
+    margin-left: 1100px;
+}
+.nachert{
+    width: 1480px;
+    position: relative;
+    top: 1610px;
+    font-size: 43.2px;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.line1{
+    position: absolute;
+    width: 1480px;
+    top: 2960px;
+    font-size: 20.99px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.vensell3{
+    position: absolute;
+    top: 2950px;
+    margin-left: 560px;
+}
+.nach{
+    position: relative;
+    top: 1740px;
+    margin-left: 0px;
+}
+.miss{
+    width: 1460px;
+    position: relative;
+    top: 1700px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.nachertania{
+    width: 1480px;
+    position: relative;
+    top: 1880px;
+    font-size: 31.07px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    justify-content: space-around;
+}
+.p2{
+    font-style: italic;
+}
+.p3{
+    font-weight: bold;
+}
+.p4{
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.nachertania2{
+    width: 1480px;
+    position: relative;
+    top: 1920px;
+    font-size: 40px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    justify-content: space-around;
+}
+.an2{
+    font-style: italic;
+}
+.an3{
+    font-weight: bold;
+}
+.an4{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.nachertania3{
+    width: 1480px;
+    position: relative;
+    top: 1960px;
+    font-size: 20px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+}
+.n1{
+    margin-left: 140px;
+}
+.n2{
+    font-style: italic;
+    margin-left: 300px;
+}
+.n3{
+    font-weight: bold;
+    margin-left: 330px;
+}
+.n4{
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 290px;
+}
+.bileti{
+    position: relative;
+    top: 2100px;
+    display: flex;
+    justify-content: center;
+}
+.vensell4{
+    position: absolute;
+    top: 4820px;
+    margin-left: 560px;
+}
+.alfavit{
+    width: 1480px;
+    position: relative;
+    top: 2280px;
+    font-size: 43.2px;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.line4{
+    position: absolute;
+    width: 1480px;
+    top: 4820px;
+    font-size: 20.99px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.mashinka{
+    width: 1480px;
+    position: absolute;
+    top: 5000px;
+    display: flex;
+    justify-content: center;
+}
+.linewow{
+    width: 1480px;
+    position: absolute;
+    top: 5390px;
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 20.99px;
+    overflow: hidden;
+    color: #FF16B0;
+}
+.osoben{
+    width: 1480px;
+    position: relative;
+    top: 3350px;
+    font-size: 43.2px;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.vensell5{
+    position: absolute;
+    top: 5935px;
+    margin-left: 560px;
+}
+.line5{
+    position: absolute;
+    width: 1480px;
+    top: 5940px;
+    font-size: 20.99px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.osobimg{
+    width: 100%;
+    position: relative;
+    top: 3530px;
+    display: flex;
+    justify-content: center;
+}
+.line6{
+    position: relative;
+    width: 100%;
+    top: 3680px;
+    font-size: 20.99px;
+    font-family: 'Anonymous Pro', monospace;
+    color: #FF16B0;
+}
+.typing{
+    width: 1480px;
+    position: relative;
+    top: 3800px;
+    font-size: 43.2px;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: #FF16B0;
+    display: flex;
+    justify-content: center;
+}
+.nositeli{
+    position: relative;
+    top: 3900px;
+    margin-left: 20px;
+}
+.knigi{
+    position: relative;
+    width: 1480px;
+    top: 3950px;
+    display: flex;
+    justify-content: center;
+}
+.eshe{
+    position: relative;
+    top: 4000px;
+    margin-left: 20px;
+}
+.kniga{
+    position: relative;
+    width: 1480px;
+    top: 4080px;
+    display: flex;
+    justify-content: center;
+}
+.zaya{
+    position: relative;
+    top: 4180px;
+    margin-left: 20px;
+}
+.podval{
+    position: relative;
+    width: 100%;
+    top: 4300px;
+    color: #FF16B0;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Anonymous Pro', monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.hse{
+    position: relative;
+    width: 100%;
+    top: 4450px;
+}
+
+.podval1{
+    position: relative;
+    width: 1460px;
+    top: 4300px;
+    display: flex;
+    color: #FF16B0;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Anonymous Pro', monospace;
+    justify-content: end;
+}
+.podval2{
+    position: relative;
+    width: 1460px;
+    top: 4315px;
+    display: flex;
+    color: #FF16B0;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Anonymous Pro', monospace;
+    justify-content: end;
+}
+.podval3{
+    position: relative;
+    width: 1460px;
+    top: 4330px;
+    display: flex;
+    color: #FF16B0;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Anonymous Pro', monospace;
+    justify-content: end;
+}
+.end{
+    position: relative;
+    width: 1460px;
+    height: 70px;
+    top: 4500px;
+    display: flex;
+    color: #FF16B0;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Anonymous Pro', monospace;
+    justify-content: end;
+}
